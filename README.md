@@ -1,4 +1,4 @@
-### Hi there 👋
+🤫 ![](https://komarev.com/ghpvc/?username=mrzmyr&color=green)
 
 <!--
 **mrzmyr/mrzmyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
